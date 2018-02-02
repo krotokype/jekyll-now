@@ -6,9 +6,9 @@ title: ゼロから作るDeep LearningのMNISTをChainerで書く
 書籍[ゼロから作るDeep Learning](https://www.oreilly.co.jp/books/9784873117584/)で[MNISTを解くニューラルネット](https://github.com/oreilly-japan/deep-learning-from-scratch/tree/master/ch05)を実装するが、近年のフレームワークの理解を深めるためChainerで書き直してみた。Chainerを選択した理由は二点
 
 1. ゼロから作るDeep Learningのサンプルコードの構造に近い印象を受けた
-    1. 主観
+    1. 主観
 1. `pip install chainer`で自分の環境には簡単に入った
-    1. 詰まっていたら他の環境に移っただろう
+    1. 詰まっていたら他の環境に移っただろう
 
 である。
 
